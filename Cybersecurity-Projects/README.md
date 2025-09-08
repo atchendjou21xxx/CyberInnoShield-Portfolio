@@ -1,0 +1,10 @@
+# Cybersecurity Projects  
+
+This section presents **technical cybersecurity projects** developed under CyberInnoShield INT™.  
+
+## Example Projects
+- **Intrusion Detection System (IDS)** → Detecting abnormal traffic and intrusions.  
+- **Ransomware Detection Lab** → Analysis and detection of ransomware patterns.  
+- **Social Media Account Recovery** → Automated process to recover hacked accounts (Facebook, Instagram, LinkedIn).  
+
+🔒 More projects will be added soon!
