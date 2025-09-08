@@ -1,16 +1,10 @@
-# ☁️ Cloud Security Projects
+# Cloud Security
 
-This section highlights my work in **Cloud Security, SOC, and SIEM**.
+This section focuses on **SOC, SIEM, and Cloud Security projects** that strengthen enterprise defense.  
 
-## 📌 Contents
-- Microsoft Sentinel projects
-- SIEM log correlation and alerts
-- Cloud defense automation
-- Security playbooks (SOAR)
-
-## 🛠️ Example Project
-**SOC Automation with Microsoft Sentinel**  
-- Tools: Azure Sentinel, Logic Apps, SOAR  
-- Goal: Automate incident detection and response for cloud security.
+## Projects
+- **SOC Automation Playbook** → Detecting suspicious logins and generating automated alerts.  
+- **SIEM Log Correlation** → Rules to identify threats across multiple systems.  
+- **Cloud Misconfiguration Scanner** → Detecting insecure storage, permissions, and vulnerabilities in cloud platforms.  
 
 🔗 More projects will be added soon!
