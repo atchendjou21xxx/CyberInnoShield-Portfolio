@@ -1,16 +1,10 @@
-# 🔐 Cybersecurity Projects
+# Cybersecurity Projects
 
-This section presents **technical cybersecurity projects** focused on defense and protection.
+This section presents **technical cybersecurity projects** developed under CyberInnoShield INT™.  
 
-## 📌 Contents
-- Intrusion Detection Systems (IDS/IPS)
-- Malware detection and analysis
-- Penetration testing labs
-- Network traffic monitoring
-
-## 🛠️ Example Project
-**Malware Detection with Machine Learning**  
-- Tools: Python, Scikit-learn, VirusTotal API  
-- Goal: Classify files as benign or malicious based on extracted features.
+## Projects
+- **Intrusion Detection System (IDS)** → Detecting abnormal traffic and intrusions.  
+- **Ransomware Detection Lab** → Analysis and detection of ransomware patterns.  
+- **Social Media Account Recovery** → Automated process to recover hacked accounts (Facebook, Instagram, LinkedIn).  
 
 🔗 More projects will be added soon!
