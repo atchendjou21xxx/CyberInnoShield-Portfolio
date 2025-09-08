@@ -1,0 +1,37 @@
+# Cybersecurity Projects  
+
+This section presents **technical cybersecurity projects** developed under CyberInnoShield INT™.  
+
+## Example Projects  
+
+- **Intrusion Detection System (IDS)**  
+  Detecting abnormal traffic and intrusions in real time.  
+
+- **Ransomware Detection Lab**  
+  Analysis and detection of ransomware attack patterns.  
+
+- **Social Media Account Recovery**  
+  Automated workflow to recover hacked accounts (Facebook, Instagram, LinkedIn).  
+
+- **Password Breach Monitor**  
+  Tool that scans leaked databases for exposed credentials.  
+
+---
+
+## 🔧 Demo: Simple Intrusion Detector (Python)  
+
+This Python snippet simulates an **intrusion detection system** by flagging suspicious IP addresses.  
+
+```python
+# intrusion_detector.py
+suspicious_ips = ["192.168.1.50", "10.0.0.99"]
+
+def check_traffic(ip):
+    if ip in suspicious_ips:
+        return "⚠️ Alert: Suspicious IP detected!"
+    else:
+        return "✅ Normal traffic"
+
+# Example usage
+print(check_traffic("192.168.1.10"))
+print(check_traffic("192.168.1.50"))
