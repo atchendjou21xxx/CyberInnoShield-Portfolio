@@ -1,10 +1,29 @@
+
+# 📂 Cybersecurity-Projects / README.md
+
+```markdown
 # Cybersecurity Projects  
 
-This section presents **technical cybersecurity projects** developed under CyberInnoShield INT™.  
+This section highlights **technical security projects** under CyberInnoShield INT™.  
 
-## Example Projects
-- **Intrusion Detection System (IDS)** → Detecting abnormal traffic and intrusions.  
-- **Ransomware Detection Lab** → Analysis and detection of ransomware patterns.  
-- **Social Media Account Recovery** → Automated process to recover hacked accounts (Facebook, Instagram, LinkedIn).  
+## Example Projects  
+- **Intrusion Detection System (IDS)** → Detecting abnormal network traffic.  
+- **Ransomware Detection Lab** → Analyzing ransomware attack patterns.  
+- **Social Media Recovery** → Recovering hacked accounts.  
 
-🔒 More projects will be added soon!
+---
+
+## Demo: Simple IDS Simulation  
+
+```python
+# intrusion-detector-demo.py
+
+def detect_intrusion(traffic):
+    if traffic > 1000:
+        return "⚠️ Intrusion suspected"
+    return "✅ Normal traffic"
+
+# Example
+traffic_samples = [200, 450, 1200]
+for t in traffic_samples:
+    print(t, "→", detect_intrusion(t))
