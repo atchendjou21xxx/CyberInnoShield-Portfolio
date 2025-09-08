@@ -1,16 +1,10 @@
-# 🤖 AI Projects
+# AI Projects
 
-This section highlights my projects in **Artificial Intelligence** applied to cybersecurity.
+This section includes **Artificial Intelligence projects** applied to cybersecurity and human risk defense.  
 
-## 📌 Contents
-- Machine Learning models for intrusion detection
-- Deep Learning for anomaly detection
-- NLP for phishing and social engineering detection
-
-## 🛠️ Example Project
-**Intrusion Detection with Machine Learning (IDS)**  
-- Dataset: KDD Cup 99 / NSL-KDD  
-- Tools: Python, AutoGluon, Jupyter Notebook  
-- Goal: Detect and classify normal vs. malicious traffic with high accuracy.  
-
+## Projects
+- **AI Phishing Detector** → NLP model that identifies phishing and fraudulent emails.  
+- **DeepFake Defense AI** → Detects and prevents deepfake videos used for misinformation.  
+- **Password Strength Analyzer** → ML model that evaluates password robustness and suggests secure alternatives.  
+  
 🔗 More projects will be added soon!
