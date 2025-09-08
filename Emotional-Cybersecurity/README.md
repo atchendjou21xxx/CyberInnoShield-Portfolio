@@ -1,10 +1,30 @@
+
+# 📂 Emotional-Cybersecurity / README.md
+
+```markdown
 # Emotional Cybersecurity  
 
-This section highlights **human risk defense** and protection against emotional vulnerabilities in the digital world.  
+This section focuses on **human risk defense and emotional cybersecurity (NJAWA™)**.  
 
-## Example Projects
-- **Human Risk Awareness Program** → Training modules to reduce emotional manipulation risks (phishing, scams, social engineering).  
-- **NJAWA™ Emotional Shield** → Framework combining psychology and cybersecurity to protect humans before machines.  
-- **CyberWellness AI Assistant** → AI-driven tool to support users under digital stress or emotional attacks.  
+## Example Projects  
+- **Stress Detector AI** → Detecting stress and emotional manipulation.  
+- **NJAWA™ Emotional Shield** → Framework protecting humans before machines.  
+- **Digital Burnout Prevention** → Tools to reduce cognitive overload.  
 
-💡 More projects will be added soon!
+## 🧠 Demo: Stress Detector  
+
+```python
+# stress-detector-demo.py
+from textblob import TextBlob
+
+def stress_detector(text):
+    polarity = TextBlob(text).sentiment.polarity
+    if polarity < -0.3:
+        return "⚠️ High Stress"
+    elif polarity < 0.3:
+        return "😐 Medium Stress"
+    else:
+        return "✅ Low Stress"
+
+print(stress_detector("I feel nervous about this email."))
+print(stress_detector("Everything looks fine and safe.
