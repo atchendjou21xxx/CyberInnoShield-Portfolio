@@ -7,7 +7,7 @@ This section includes **Artificial Intelligence projects applied to cybersecurit
 - **DeepFake Defense AI** → AI that detects deepfake videos.  
 - **Password Strength Analyzer** → ML model evaluating password robustness.  
 
-## 🤖 Demo: Simple Password Strength Analyzer  
+##  Demo: Simple Password Strength Analyzer  
 
 ```python
 # password-analyzer-demo.py
