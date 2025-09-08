@@ -10,7 +10,7 @@ This repository highlights projects across my **4 core pillars** of cybersecurit
 4. 👥 [Human Risk Defense](./Human-Risk-Defense) → Awareness, recovery, human-centered security.  
 
 ## 🌟 About Me  
-I’m **Adeline Tchendjou Njawa**, Founder of **CyberInnoShield INT™**.  
+I’m **Adeline Njawa**, Founder of **CyberInnoShield INT™**.  
 I combine **AI, technical security, emotional resilience, and human risk defense** to build innovative solutions for modern digital threats.  
 
 ## 📬 Connect  
