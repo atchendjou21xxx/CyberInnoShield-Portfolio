@@ -1,22 +1,18 @@
-# CyberInnoShield-Portfolio
+# CyberInnoShield Portfolio  
 
 Welcome to my professional portfolio.  
-This repository highlights projects across **AI, Cybersecurity, Emotional Cybersecurity, Human Risk Defense, and Cloud Security**.  
+This repository highlights projects across my **4 core pillars** of cybersecurity and innovation:  
 
-## 📂 Project Categories
-- [AI Projects](./AI-Projects) → Machine Learning, Deep Learning, NLP for cybersecurity.
-- [Cybersecurity Projects](./Cybersecurity-Projects) → Technical projects (IDS, penetration testing, malware detection).
-- [Emotional Cybersecurity](./Emotional-Cybersecurity) → Human Risk Defense, emotional vulnerabilities, awareness solutions.
-- [Cloud Security](./Cloud-Security) → SOC, SIEM, and Cloud defense automation.
+## 🔑 Four Identity Pillars
+1. 🤖 [AI Projects](./AI-Projects) → Artificial Intelligence applied to cybersecurity.  
+2. 🔐 [Cybersecurity Projects](./Cybersecurity-Projects) → Technical security (IDS, malware, account recovery).  
+3. 🧠 [Emotional Cybersecurity](./Emotional-Cybersecurity) → NJAWA™, human risk defense, emotional security.  
+4. 👥 [Human Risk Defense](./Human-Risk-Defense) → Awareness, recovery, human-centered security.  
 
+## 🌟 About Me  
+I’m **Adeline Tchendjou Njawa**, Founder of **CyberInnoShield INT™**.  
+I combine **AI, technical security, emotional resilience, and human risk defense** to build innovative solutions for modern digital threats.  
 
-## 🌍 About Me
-I am **Adeline Tchendjou Njawa**, Cybersecurity & AI Analyst and Founder of **CyberInnoShield INT™**.  
-My focus is on combining **technical security**, **AI-driven defense**, and **human/emotional protection** to create innovative solutions for modern digital threats.
-
-
-## 🔗 Connect
-- 🌐 Website: [www.cyberinnoshield.com](https://www.cyberinnoshield.com)  
-- 💼 LinkedIn: [Your LinkedIn link here]  
-- 📧 Contact: contact@cyberinnoshield.com
-
+## 📬 Connect  
+- 🌐 Website: [www.cyberinnoshield.com](https://www.cyberinnoshield.com)    
+- 📧 Email: contact@cyberinnoshield.com
