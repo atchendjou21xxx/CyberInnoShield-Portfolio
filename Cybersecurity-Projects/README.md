@@ -11,8 +11,6 @@ This section highlights **technical security projects** under CyberInnoShield IN
 - **Ransomware Detection Lab** → Analyzing ransomware attack patterns.  
 - **Social Media Recovery** → Recovering hacked accounts.  
 
----
-
 ## Demo: Simple IDS Simulation  
 
 ```python
