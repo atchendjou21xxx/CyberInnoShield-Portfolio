@@ -11,7 +11,7 @@ This section focuses on **human risk defense and emotional cybersecurity (NJAWA�
 - **NJAWA™ Emotional Shield** → Framework protecting humans before machines.  
 - **Digital Burnout Prevention** → Tools to reduce cognitive overload.  
 
-## 🧠 Demo: Stress Detector  
+##  Demo: Stress Detector  
 
 ```python
 # stress-detector-demo.py
