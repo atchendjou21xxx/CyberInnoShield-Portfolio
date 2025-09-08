@@ -1,22 +1,39 @@
 # Emotional Cybersecurity
 
-This section highlights **human risk defense** and the unique approach of **CyberInnoShield INT™**, focusing on the intersection of psychology, emotions, and cybersecurity.  
-The goal is to protect not only systems, but also the **human factor**, often the weakest link in digital security.
+This section highlights human risk defense and protection against emotional vulnerabilities in the digital world.
+
+## Example Projects
+- **Human Risk Awareness Program** → Training modules to reduce emotional manipulation risks (phishing, scams, social engineering).  
+- **NJAWA™ Emotional Shield** → Framework combining psychology and cybersecurity to protect humans before machines.  
+- **CyberWellness AI Assistant** → AI-driven tool to support users under digital stress or emotional attacks.  
 
 ---
 
-## 🔐 Example Projects
+## 🧪 Demo: Stress Detector (Python)
 
-- **Human Risk Awareness Program (HRAP)** → Training program to detect and resist emotional manipulation (phishing, scams, social engineering).  
-- **NJAWA™ Emotional Shield** → Framework combining emotional intelligence with cybersecurity defense.  
-- **Digital Burnout Prevention Lab** → Tools and strategies to reduce cognitive overload and improve employee resilience.  
-- **Emotional AI for Security** → AI-based assistant detecting stress/emotional patterns that may lead to human errors.
+This simple Python script simulates a **stress detector** using sentiment analysis on user input.  
+It classifies text as **Low Stress**, **Medium Stress**, or **High Stress**.
 
----
+```python
+# stress-detector-demo.py
 
-## 🌍 Vision
+from textblob import TextBlob
 
-CyberInnoShield INT™ defends not only technology but also **people’s emotions and decisions**.  
-By combining **AI, psychology, and cybersecurity**, we build the future of **human-centered digital protection**.
+def stress_detector(text):
+    # Basic sentiment polarity analysis (-1 = negative, +1 = positive)
+    polarity = TextBlob(text).sentiment.polarity
+    
+    if polarity > 0.3:
+        return "Low Stress 😊"
+    elif polarity > -0.3:
+        return "Medium Stress 😐"
+    else:
+        return "High Stress ⚠️"
 
-🚀 More emotional cybersecurity projects will be added soon.
+# --- Example Usage ---
+while True:
+    user_input = input("Enter a sentence about your feelings (or 'quit' to exit): ")
+    if user_input.lower() == "quit":
+        break
+    print("Stress Level:", stress_detector(user_input))
+
