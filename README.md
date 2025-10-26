@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="CyberInnoShieldLogo.png" width="400">
+</p>
+
+# 🛡️ CyberInnoShield Portfolio  
+Welcome to my professional portfolio.
+
 # CyberInnoShield Portfolio  
 
 Welcome to my professional portfolio.  
