@@ -1,4 +1,6 @@
-<img width="350" height="350" alt="Cyberinnoshield Logo" src="https://github.com/user-attachments/assets/7e349c61-6351-4d08-bfdf-78a7a9b42310" />
+<p align="center">
+  <img width="300" alt="Cyberinnoshield Logo" src="https://github.com/user-attachments/assets/7e349c61-6351-4d08-bfdf-78a7a9b42310" />
+</p>
 
 # CyberInnoShield Portfolio  
 
