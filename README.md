@@ -16,4 +16,3 @@ I combine **AI, technical security, emotional resilience, and human risk defense
 ## 📬 Connect  
 - 🌐 Website: [www.cyberinnoshield.com](https://www.cyberinnoshield.com)    
 - 📧 Email: contact@cyberinnoshield.com
-<img width="661" height="467" alt="image" src="https://github.com/user-attachments/assets/0febf157-8cbf-4fae-a905-cd8cda876c9e" />
