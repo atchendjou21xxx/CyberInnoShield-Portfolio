@@ -20,3 +20,11 @@ I combine **AI, technical security, emotional resilience, and human risk defense
 ## 📬 Connect  
 - 🌐 Website: [www.cyberinnoshield.com](https://www.cyberinnoshield.com)    
 - 📧 Email: contact@cyberinnoshield.com
+
+## 🎓 Featured Academic Projects
+
+Here are some of my hands-on projects completed during my cybersecurity and AI coursework — demonstrating my technical growth and practical skills across data science, cybersecurity, and automation.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/202f1fad-c08d-444a-a05d-f783c4495cff" width="600">
+</p>
