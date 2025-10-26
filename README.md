@@ -25,6 +25,23 @@ I combine **AI, technical security, emotional resilience, and human risk defense
 
 Here are some of my hands-on projects completed during my cybersecurity and AI coursework — demonstrating my technical growth and practical skills across data science, cybersecurity, and automation.
 
+### 🧠 PCA Iris Project (Machine Learning)
+Dimensionality reduction of the Iris dataset using **Principal Component Analysis (PCA)** for visualization and feature extraction.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/202f1fad-c08d-444a-a05d-f783c4495cff" width="600">
+</p>
+
+### 🌳 Decision Tree Classifier (Supervised Learning)
+Built a **Decision Tree model** to classify the Iris dataset, identifying key features and visualizing decision paths for better model interpretability.
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/84cc2b67-0fb9-4424-85d2-7531b1b4da7b" width="650"> </p>
+
+### 📊 K-Means Clustering (Unsupervised Learning)
+Applied **K-Means clustering** with PCA to segment data from the Iris dataset, identifying natural groupings and visualizing clusters based on feature similarities.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d911347f-ce8d-474f-860b-e46c5cb1e81f" 
+       alt="K-Means Clustering with PCA on Iris Dataset" 
+       width="650">
 </p>
