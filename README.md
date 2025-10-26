@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CyberInnoShieldLogo.png" width="400">
+  <img src="CyberInnoShield Logo.png" width="400">
 </p>
 
 # 🛡️ CyberInnoShield Portfolio  
